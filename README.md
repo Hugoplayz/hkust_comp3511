@@ -1,4 +1,4 @@
-# HKUST COMP3511 Operating System
+# HKUST COMP3511 Operating System 2024 fall
 
 Pa1: Simplified Linux Shell
 
